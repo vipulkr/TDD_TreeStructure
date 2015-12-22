@@ -1,0 +1,460 @@
+{
+  "Axes": {
+    "Axis": [
+      [
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Measures",
+              "UName": "[Measures].[Actual]",
+              "Caption": "Actual",
+              "LName": "[Measures].[MeasuresLevel]",
+              "LNum": 0,
+              "DisplayInfo": 0
+            },
+            {
+              "index": 1,
+              "hierarchy": "Region",
+              "UName": "[Region].[All Regions]",
+              "Caption": "All Regions",
+              "LName": "[Region].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 65540
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Measures",
+              "UName": "[Measures].[Actual]",
+              "Caption": "Actual",
+              "LName": "[Measures].[MeasuresLevel]",
+              "LNum": 0,
+              "DisplayInfo": 0
+            },
+            {
+              "index": 1,
+              "hierarchy": "Region",
+              "UName": "[Region].[Central]",
+              "Caption": "Central",
+              "LName": "[Region].[Region]",
+              "LNum": 1,
+              "DisplayInfo": 0
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Measures",
+              "UName": "[Measures].[Actual]",
+              "Caption": "Actual",
+              "LName": "[Measures].[MeasuresLevel]",
+              "LNum": 0,
+              "DisplayInfo": 0
+            },
+            {
+              "index": 1,
+              "hierarchy": "Region",
+              "UName": "[Region].[Eastern]",
+              "Caption": "Eastern",
+              "LName": "[Region].[Region]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Measures",
+              "UName": "[Measures].[Actual]",
+              "Caption": "Actual",
+              "LName": "[Measures].[MeasuresLevel]",
+              "LNum": 0,
+              "DisplayInfo": 0
+            },
+            {
+              "index": 1,
+              "hierarchy": "Region",
+              "UName": "[Region].[Southern]",
+              "Caption": "Southern",
+              "LName": "[Region].[Region]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Measures",
+              "UName": "[Measures].[Actual]",
+              "Caption": "Actual",
+              "LName": "[Measures].[MeasuresLevel]",
+              "LNum": 0,
+              "DisplayInfo": 0
+            },
+            {
+              "index": 1,
+              "hierarchy": "Region",
+              "UName": "[Region].[Western]",
+              "Caption": "Western",
+              "LName": "[Region].[Region]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Department",
+              "UName": "[Department].[All Departments]",
+              "Caption": "All Departments",
+              "LName": "[Department].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 65543
+            },
+            {
+              "index": 1,
+              "hierarchy": "Positions",
+              "UName": "[Positions].[All Positions]",
+              "Caption": "All Positions",
+              "LName": "[Positions].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 37
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Department",
+              "UName": "[Department].[Executive Management]",
+              "Caption": "Executive Management",
+              "LName": "[Department].[Department]",
+              "LNum": 1,
+              "DisplayInfo": 0
+            },
+            {
+              "index": 1,
+              "hierarchy": "Positions",
+              "UName": "[Positions].[All Positions]",
+              "Caption": "All Positions",
+              "LName": "[Positions].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 37
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Department",
+              "UName": "[Department].[Finance]",
+              "Caption": "Finance",
+              "LName": "[Department].[Department]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            },
+            {
+              "index": 1,
+              "hierarchy": "Positions",
+              "UName": "[Positions].[All Positions]",
+              "Caption": "All Positions",
+              "LName": "[Positions].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 37
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Department",
+              "UName": "[Department].[Human Resource]",
+              "Caption": "Human Resource",
+              "LName": "[Department].[Department]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            },
+            {
+              "index": 1,
+              "hierarchy": "Positions",
+              "UName": "[Positions].[All Positions]",
+              "Caption": "All Positions",
+              "LName": "[Positions].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 37
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Department",
+              "UName": "[Department].[Marketing & Communication]",
+              "Caption": "Marketing & Communication",
+              "LName": "[Department].[Department]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            },
+            {
+              "index": 1,
+              "hierarchy": "Positions",
+              "UName": "[Positions].[All Positions]",
+              "Caption": "All Positions",
+              "LName": "[Positions].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 37
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Department",
+              "UName": "[Department].[Product Development]",
+              "Caption": "Product Development",
+              "LName": "[Department].[Department]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            },
+            {
+              "index": 1,
+              "hierarchy": "Positions",
+              "UName": "[Positions].[All Positions]",
+              "Caption": "All Positions",
+              "LName": "[Positions].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 37
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Department",
+              "UName": "[Department].[Professional Services]",
+              "Caption": "Professional Services",
+              "LName": "[Department].[Department]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            },
+            {
+              "index": 1,
+              "hierarchy": "Positions",
+              "UName": "[Positions].[All Positions]",
+              "Caption": "All Positions",
+              "LName": "[Positions].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 37
+            }
+          ]
+        },
+        {
+          "Member": [
+            {
+              "index": 0,
+              "hierarchy": "Department",
+              "UName": "[Department].[Sales]",
+              "Caption": "Sales",
+              "LName": "[Department].[Department]",
+              "LNum": 1,
+              "DisplayInfo": 131072
+            },
+            {
+              "index": 1,
+              "hierarchy": "Positions",
+              "UName": "[Positions].[All Positions]",
+              "Caption": "All Positions",
+              "LName": "[Positions].[(All)]",
+              "LNum": 0,
+              "DisplayInfo": 37
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  "CellData": {
+    "Cell": [
+      {
+        "CellOrdinal": 0,
+        "FmtValue": "143,639,982.00"
+      },
+      {
+        "CellOrdinal": 1,
+        "FmtValue": "37,893,162.00"
+      },
+      {
+        "CellOrdinal": 2,
+        "FmtValue": "35,248,940.00"
+      },
+      {
+        "CellOrdinal": 3,
+        "FmtValue": "35,248,940.00"
+      },
+      {
+        "CellOrdinal": 4,
+        "FmtValue": "35,248,940.00"
+      },
+      {
+        "CellOrdinal": 5,
+        "FmtValue": "6,299,022.00"
+      },
+      {
+        "CellOrdinal": 6,
+        "FmtValue": "1,776,282.00"
+      },
+      {
+        "CellOrdinal": 7,
+        "FmtValue": "1,507,580.00"
+      },
+      {
+        "CellOrdinal": 8,
+        "FmtValue": "1,507,580.00"
+      },
+      {
+        "CellOrdinal": 9,
+        "FmtValue": "1,507,580.00"
+      },
+      {
+        "CellOrdinal": 10,
+        "FmtValue": "12,224,220.00"
+      },
+      {
+        "CellOrdinal": 11,
+        "FmtValue": "3,106,680.00"
+      },
+      {
+        "CellOrdinal": 12,
+        "FmtValue": "3,039,180.00"
+      },
+      {
+        "CellOrdinal": 13,
+        "FmtValue": "3,039,180.00"
+      },
+      {
+        "CellOrdinal": 14,
+        "FmtValue": "3,039,180.00"
+      },
+      {
+        "CellOrdinal": 15,
+        "FmtValue": "13,075,463.00"
+      },
+      {
+        "CellOrdinal": 16,
+        "FmtValue": "3,438,863.00"
+      },
+      {
+        "CellOrdinal": 17,
+        "FmtValue": "3,212,200.00"
+      },
+      {
+        "CellOrdinal": 18,
+        "FmtValue": "3,212,200.00"
+      },
+      {
+        "CellOrdinal": 19,
+        "FmtValue": "3,212,200.00"
+      },
+      {
+        "CellOrdinal": 20,
+        "FmtValue": "13,910,753.00"
+      },
+      {
+        "CellOrdinal": 21,
+        "FmtValue": "3,590,423.00"
+      },
+      {
+        "CellOrdinal": 22,
+        "FmtValue": "3,440,110.00"
+      },
+      {
+        "CellOrdinal": 23,
+        "FmtValue": "3,440,110.00"
+      },
+      {
+        "CellOrdinal": 24,
+        "FmtValue": "3,440,110.00"
+      },
+      {
+        "CellOrdinal": 25,
+        "FmtValue": "10,644,102.00"
+      },
+      {
+        "CellOrdinal": 26,
+        "FmtValue": "2,997,702.00"
+      },
+      {
+        "CellOrdinal": 27,
+        "FmtValue": "2,548,800.00"
+      },
+      {
+        "CellOrdinal": 28,
+        "FmtValue": "2,548,800.00"
+      },
+      {
+        "CellOrdinal": 29,
+        "FmtValue": "2,548,800.00"
+      },
+      {
+        "CellOrdinal": 30,
+        "FmtValue": "76,317,649.00"
+      },
+      {
+        "CellOrdinal": 31,
+        "FmtValue": "20,068,039.00"
+      },
+      {
+        "CellOrdinal": 32,
+        "FmtValue": "18,749,870.00"
+      },
+      {
+        "CellOrdinal": 33,
+        "FmtValue": "18,749,870.00"
+      },
+      {
+        "CellOrdinal": 34,
+        "FmtValue": "18,749,870.00"
+      },
+      {
+        "CellOrdinal": 35,
+        "FmtValue": "11,168,773.00"
+      },
+      {
+        "CellOrdinal": 36,
+        "FmtValue": "2,915,173.00"
+      },
+      {
+        "CellOrdinal": 37,
+        "FmtValue": "2,751,200.00"
+      },
+      {
+        "CellOrdinal": 38,
+        "FmtValue": "2,751,200.00"
+      },
+      {
+        "CellOrdinal": 39,
+        "FmtValue": "2,751,200.00"
+      }
+    ]
+  }
+}

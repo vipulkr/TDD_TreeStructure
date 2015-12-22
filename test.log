@@ -1,0 +1,14 @@
+1
+{ '[Region].[All Regions]': { count: 1, children: { '[Region].[xyz]': [Object] }, level: 1 },
+  '[Region].[Central]': { count: 1, children: { '[Region].[xyz]': [Object] }, level: 1 } }
+{ '[Region].[Eastern]': { count: 1, children: { '[Region].[xyz]': [Object] }, level: 1 },
+  '[Region].[Southern]': { count: 1, children: { '[Region].[xyz]': [Object] }, level: 1 },
+  '[Region].[Western]': { count: 1, children: { '[Region].[xyz]': [Object] }, level: 1 } }
+2
+{ '[Region].[xyz]': { count: 1, children: {}, level: 2 } }
+{ '[Region].[xyz]': { count: 1, children: {}, level: 2 } }
+{ '[Region].[xyz]': { count: 1, children: {}, level: 2 } }
+{ '[Region].[xyz]': { count: 1, children: {}, level: 2 } }
+{ '[Region].[xyz]': { count: 1, children: {}, level: 2 } }
+5
+<tr><th></th><th></th><td colspan='2' class='level0'>[Measures].[Actual]</td><td colspan='3' class='level0'>[Measures].[Budget]</td></tr><tr><th></th><th></th><td colspan='1' class='level1'>[Region].[All Regions]</td><td colspan='1' class='level1'>[Region].[Central]</td><td colspan='1' class='level1'>[Region].[Eastern]</td><td colspan='1' class='level1'>[Region].[Southern]</td><td colspan='1' class='level1'>[Region].[Western]</td></tr><tr><th></th><th></th><td colspan='1' class='level2'>[Region].[xyz]</td><td colspan='1' class='level2'>[Region].[xyz]</td><td colspan='1' class='level2'>[Region].[xyz]</td><td colspan='1' class='level2'>[Region].[xyz]</td><td colspan='1' class='level2'>[Region].[xyz]</td></tr>

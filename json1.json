@@ -1,0 +1,114 @@
+[
+  {
+    "ageGroup": "0-6",
+    "literatePopulation": "0"
+  },
+  {
+    "ageGroup": "7",
+    "literatePopulation": "22818573"
+  },
+  {
+    "ageGroup": "8",
+    "literatePopulation": "29011421"
+  },
+  {
+    "ageGroup": "9",
+    "literatePopulation": "26565571"
+  },
+  {
+    "ageGroup": "10",
+    "literatePopulation": "34430703"
+  },
+  {
+    "ageGroup": "11",
+    "literatePopulation": "28806963"
+  },
+  {
+    "ageGroup": "12",
+    "literatePopulation": "32348816"
+  },
+  {
+    "ageGroup": "13",
+    "literatePopulation": "28387474"
+  },
+  {
+    "ageGroup": "14",
+    "literatePopulation": "29171219"
+  },
+  {
+    "ageGroup": "15",
+    "literatePopulation": "29325198"
+  },
+  {
+    "ageGroup": "16",
+    "literatePopulation": "27686321"
+  },
+  {
+    "ageGroup": "17",
+    "literatePopulation": "23886851"
+  },
+  {
+    "ageGroup": "18",
+    "literatePopulation": "30218875"
+  },
+  {
+    "ageGroup": "19",
+    "literatePopulation": "22621208"
+  },
+  {
+    "ageGroup": "20-24",
+    "literatePopulation": "114128000"
+  },
+  {
+    "ageGroup": "25-29",
+    "literatePopulation": "95741848"
+  },
+  {
+    "ageGroup": "30-34",
+    "literatePopulation": "77036519"
+  },
+  {
+    "ageGroup": "35-39",
+    "literatePopulation": "68243458"
+  },
+  {
+    "ageGroup": "40-44",
+    "literatePopulation": "53708523"
+  },
+  {
+    "ageGroup": "45-49",
+    "literatePopulation": "43357916"
+  },
+  {
+    "ageGroup": "50-54",
+    "literatePopulation": "32553475"
+  },
+  {
+    "ageGroup": "55-59",
+    "literatePopulation": "24557099"
+  },
+  {
+    "ageGroup": "60-64",
+    "literatePopulation": "20160842"
+  },
+  {
+    "ageGroup": "65-69",
+    "literatePopulation": "13193461"
+  },
+  {
+    "ageGroup": "70-74",
+    "literatePopulation": "8560705"
+  },
+  {
+    "ageGroup": "75-79",
+    "literatePopulation": "4263104"
+  },
+  {
+    "ageGroup": "80+",
+    "literatePopulation": "4920189"
+  },
+  {
+    "ageGroup": "Age not stated",
+    "literatePopulation": "3459950"
+  }
+]
